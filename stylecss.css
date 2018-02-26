@@ -1,0 +1,36 @@
+<link rel="stylesheet" type="text/css" href="mystyle.css"><!-- include inside the html file-->
+
+
+
+  body {
+    background-color: linen;
+  }
+  h1 {
+    color: blue;
+    margin-left: 40px;
+  }
+  h2 {
+    color:red;
+    margin-left:40px;
+  }
+  h4,h6 {
+    color:green;
+    margin-left:40px;
+  }
+  li {
+    color:maroon;
+    margin-left:10px;
+  }
+  table{
+    color:blue;
+    font-family: cursive;
+    font-weight: bold;
+  }
+
+div{
+background-color:lightgrey;
+width: 300px;
+border: 25px solid green;
+padding:25px;
+margin: 25px;
+}
